@@ -1,1 +1,1 @@
-type anything
+what is the weather today?
